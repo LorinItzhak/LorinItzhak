@@ -47,7 +47,7 @@ As a computer science student, I am constantly learning and improving my skills 
 
 <p align="left"> <a href="https://github.com/LorinItzhak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lorin-itzhak-a77872304/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+
 
 ## My GitHub Stats
 
