@@ -13,7 +13,6 @@ As a computer science student, I am constantly learning and improving my skills 
 * 🧠  I'm learning Web Application Development and Python
 
 
-<h1><a href=""><strong>Portfolio</strong></a></h1>
 
 
 ### Skills
